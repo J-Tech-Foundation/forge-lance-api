@@ -1,3 +1,1 @@
-# forge-lance-api
-
-just go to glitch branch
+as usual wiki comes out with official release
